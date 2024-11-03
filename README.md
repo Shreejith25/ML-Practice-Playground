@@ -17,6 +17,7 @@ Post-pruning involves growing the tree fully and then trimming it back to contro
 
 ####  Pre-Pruning
 Pre-pruning restricts the tree's growth during training by limiting parameters like max_depth and criterion.
+![alt text](image.png)
 
 
 Post-Pruning: Allows the tree to grow entirely before reducing complexity, often yielding high accuracy.
