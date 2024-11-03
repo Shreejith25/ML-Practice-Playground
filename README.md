@@ -6,10 +6,10 @@ File name : Decision_Tree
 
 This project showcases a Decision Tree Classifier using the Iris dataset , implementing Pre-Pruning and Post-Pruning techniques to improve model performance and prevent overfitting. The classifier is built in Python, leveraging scikit-learn for model building, tuning, and evaluation.
 
-Libraries Used
-    - Pandas
-    - sklearn
-    - matplotlib
+    Libraries used
+        - Pandas 
+        - sklearn
+        - Matplotlib
 
 
 ### 📂 Project Files
